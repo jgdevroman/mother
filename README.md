@@ -1,6 +1,6 @@
 # Mother
 
-UNIX web server that can host static web sites, traverse through the file system and execute Pearl scripts.
+Linux web server that can host static web sites, traverse through the file system and execute Pearl scripts.
 Also able to create multiple connections at the same time through multi threading.
 
 ### Installing
