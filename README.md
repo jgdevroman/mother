@@ -34,12 +34,12 @@ $ ./mother --wwwpath=<dir> [--port=<p>] [--threads=<t>]
 After that, you can access your server by inserting the following URL in your browser:
 
 ```
-http://localhost:<port>
+http://localhost:<port> (if --port is not set: 2016)
 ```
 
 ### Test
 
-You can test the server by using the test site "wwwdir" by  
+You can test the server by using the test site "wwwdir" 
 
 ```bash
 $ ./mother --wwwpath=</path/to/the/installed/folder/wwwdir> [--port=<p>] [--threads=<t>]
