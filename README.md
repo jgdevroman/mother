@@ -47,6 +47,6 @@ $ ./mother --wwwpath=</path/to/the/installed/folder/wwwdir> [--port=<p>] [--thre
 
 ## Authors
 
-* **Roman Shirasaki** - connection-mt.c, jbuffer.c, request-httpx.c, sem.c - [jdevroman](https://github.com/jgdevroman)
+* **Roman Shirasaki** [jgdevroman](https://github.com/jgdevroman)- connection-mt.c, jbuffer.c, request-httpx.c, sem.c  
 
 * **University of Erlangen/Nuremberg Department of Distributed Systems and Operating Systems** - Makefile, libmother.a 
